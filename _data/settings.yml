@@ -1,0 +1,41 @@
+#-------------------------------
+# General Site Settings
+title: Henry Maguire
+logo: logo.png # You can add own logo.
+description: Personal and professional website
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Henry Maguire
+  #image: 01.jpg
+  say-hello: Hello, I’m <strong>Henry</strong> 👋
+  bio: I'm a Data Scientist at Orbital Witness, a LegalTech startup based in London.‍ On this website I write about building machine learning products, startups, self-education and strategies for living a happy and creative life.
+
+
+#-------------------------------
+# Contact links
+twitter: https://twitter.com/hejmaguire # Add your Twitter handle
+linkedin: https://www.linkedin.com/in/henry-maguire
+github: https://github.com/HenryMaguire
+
+#-------------------------------
+# Comment Section (Disqus)
+#disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+#instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
