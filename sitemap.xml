@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://henrymaguire.co.uk/blog/2018/05/29/welcome-to-jekyll/</loc>
+<lastmod>2018-05-29T15:05:55+00:00</lastmod>
+</url>
+<url>
+<loc>http://henrymaguire.co.uk/blog/2018/05/29/first-post/</loc>
+<lastmod>2018-05-29T15:05:55+00:00</lastmod>
+</url>
+<url>
+<loc>http://henrymaguire.co.uk/blog/about/</loc>
+</url>
+<url>
+<loc>http://henrymaguire.co.uk/blog/</loc>
+</url>
+<url>
+<loc>http://henrymaguire.co.uk/blog/styleguide/</loc>
+</url>
+<url>
+<loc>http://henrymaguire.co.uk/blog/tag/jekyll/</loc>
+</url>
+<url>
+<loc>http://henrymaguire.co.uk/blog/tag/jekyll,/</loc>
+</url>
+<url>
+<loc>http://henrymaguire.co.uk/blog/tag/blog/</loc>
+</url>
+</urlset>

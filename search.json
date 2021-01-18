@@ -1,14 +1,19 @@
----
-layout: null
----
 [
-  {% for post in site.posts %}
+  
     {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
-      "tags"     : "{{ post.tags | array_to_sentence_string }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date | date: "%-d %b, %Y" }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+      "title"    : "First Post!",
+      "category" : "",
+      "tags"     : "Jekyll, and Blog",
+      "url"      : "/blog/2018/05/29/first-post/",
+      "date"     : "29 May, 2018"
+    } ,
+  
+    {
+      "title"    : "Welcome to Jekyll!",
+      "category" : "",
+      "tags"     : "Jekyll",
+      "url"      : "/blog/2018/05/29/welcome-to-jekyll/",
+      "date"     : "29 May, 2018"
+    } 
+  
 ]
