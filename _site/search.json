@@ -1,10 +1,18 @@
 [
   
     {
+      "title"    : "First Post!",
+      "category" : "",
+      "tags"     : "Jekyll, and Blog",
+      "url"      : "/blog/2018/05/29/first-post/",
+      "date"     : "29 May, 2018"
+    } ,
+  
+    {
       "title"    : "Welcome to Jekyll!",
       "category" : "",
       "tags"     : "Jekyll",
-      "url"      : "/home/2018/05/29/welcome-to-jekyll/",
+      "url"      : "/blog/2018/05/29/welcome-to-jekyll/",
       "date"     : "29 May, 2018"
     } 
   
