@@ -19,31 +19,6 @@ Table of Contents
 
 * * *
 
-### Features
-
-* 100% responsive and clean theme
-
-* Optimized for mobile devices
-
-* Minimal design
-
-* Valid HTML5 code
-
-* Post sharing
-
-* Subscription form
-
-* Supports Disqus Comments
-
-* Instagram Feed
-
-* Ionicons Icons
-
-* Google Fonts
-
-
-* * *
-
 ### Demo
 
 Check the theme in action [Demo](https://zolan-jekyll.netlify.app/)
