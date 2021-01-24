@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-subtitle: This is here
+title:  "Sample Post!"
+subtitle: This is a sample subtitle
 date:   2018-05-29 18:05:55 +0300
 image:  10.jpg
 tags:   Jekyll

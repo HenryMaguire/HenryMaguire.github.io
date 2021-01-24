@@ -1,29 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://henrymaguire.co.uk/blog/2018/05/29/welcome-to-jekyll/</loc>
-<lastmod>2018-05-29T15:05:55+00:00</lastmod>
+<loc>http://henrymaguire.github.io/2018/05/29/welcome-to-jekyll/</loc>
+<lastmod>2018-05-29T16:05:55+01:00</lastmod>
 </url>
 <url>
-<loc>http://henrymaguire.co.uk/blog/2018/05/29/first-post/</loc>
-<lastmod>2018-05-29T15:05:55+00:00</lastmod>
+<loc>http://henrymaguire.github.io/about/</loc>
 </url>
 <url>
-<loc>http://henrymaguire.co.uk/blog/about/</loc>
+<loc>http://henrymaguire.github.io/styleguide/</loc>
 </url>
 <url>
-<loc>http://henrymaguire.co.uk/blog/</loc>
+<loc>http://henrymaguire.github.io/tag/jekyll/</loc>
 </url>
 <url>
-<loc>http://henrymaguire.co.uk/blog/styleguide/</loc>
-</url>
-<url>
-<loc>http://henrymaguire.co.uk/blog/tag/jekyll/</loc>
-</url>
-<url>
-<loc>http://henrymaguire.co.uk/blog/tag/jekyll,/</loc>
-</url>
-<url>
-<loc>http://henrymaguire.co.uk/blog/tag/blog/</loc>
+<loc>http://henrymaguire.github.io/</loc>
+<lastmod>2021-01-24T15:53:15+00:00</lastmod>
 </url>
 </urlset>

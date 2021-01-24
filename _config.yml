@@ -1,5 +1,5 @@
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://henrymaguire.me" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://HenryMaguire.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
@@ -19,11 +19,12 @@ defaults:
   - scope:
       path: '_pages'
     values:
-      permalink: /:basename:output_ext
+      permalink: /:baseurl:output_ext
 
 include:
   - _pages
-
+  - _sass
+  - _site
 
 # Tags
 tag_page_dir:         tag

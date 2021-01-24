@@ -1,1 +1,1 @@
-Sitemap: http://henrymaguire.co.uk/blog/sitemap.xml
+Sitemap: http://henrymaguire.github.io/sitemap.xml
