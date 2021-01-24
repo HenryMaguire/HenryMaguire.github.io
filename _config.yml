@@ -19,12 +19,11 @@ defaults:
   - scope:
       path: '_pages'
     values:
-      permalink: /:baseurl:output_ext
+      permalink: /:basename:output_ext
 
 include:
   - _pages
-  - _sass
-  - _site
+
 
 # Tags
 tag_page_dir:         tag
