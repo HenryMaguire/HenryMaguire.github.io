@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://henrymaguire.github.io/2018/05/29/welcome-to-jekyll/</loc>
-<lastmod>2018-05-29T16:05:55+01:00</lastmod>
+<loc>http://henrymaguire.github.io/2021/01/26/meditation-concentrated/</loc>
+<lastmod>2021-01-26T09:17:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://henrymaguire.github.io/about/</loc>
@@ -14,6 +14,9 @@
 <loc>http://henrymaguire.github.io/</loc>
 </url>
 <url>
-<loc>http://henrymaguire.github.io/tag/jekyll/</loc>
+<loc>http://henrymaguire.github.io/tag/meditation/</loc>
+</url>
+<url>
+<loc>http://henrymaguire.github.io/tag/neuroscience/</loc>
 </url>
 </urlset>
