@@ -1,29 +1,55 @@
 ---
 layout: post
-title:  "Meditation: Concentrated"
+title:  "Meditation: Concentrated (V2)"
 subtitle: Insights I wish I'd had five years ago.
 date:   2021-01-26 09:17:00 +0000
 image:  #10.jpg
 tags:   Meditation Neuroscience
 ---
-It is certainly true that meditation has experienced a major boom in popularity over the last few decades. This has been driven by a plethora of scientific (and anecdotal) evidence that meditation can bring a vast swathe of psychological benefits. Clever marketing and UX design has meant that apps such as Headspace and Calm have become increasingly popular. The meditation industry is now estimated to be worth over a billion dollars worldwide - with courses, retreats and subscription services packaging up wellbeing in ever more elaborate ways, catering for everything from sports performance to confidence issues.
+Meditation has experienced a boom in popularity over the last decade. There is now an overwhelming amount of scientific (and anecdotal) evidence on the psychological benefits of meditation, with apps such as Headspace and Calm helping to make it readily available to everyone. The meditation industry is now estimated to be worth over a billion dollars worldwide, with courses, retreats and apps catering for everything from sports performance to phobias.
 
-Despite this increase in publicity, I still meet very few people that meditate regularly. In part, I think this is because there is still some "new-age" stigma that lingers, but I think the problem lies in a lack of communication about what meditation actually _is_. On top of this, I think that the vagueness with which most apps and courses approach the topic does little to dispel the many prevalent myths and assumptions about meditation that put people off. Apps have done wonders for getting people to try meditation, but I feel that their subscription model gives them no incentive to teach people to become self-sufficient. I suspect that this unwillingness to foster independence in subscribers/students/customers is to blame for some of the over-complicated packaging that meditation often finds itself in. 
+Despite this publicity, I still meet very few people that meditate regularly. Some people get a lot out of meditation, but aren't able to establish a habit. Some have tried meditation, but upon failing to "clear their mind", concluded that it's not for them. Others simply assume that it _can't really have that much of an effect_ or are put off by its spiritual affiliations.
 
-> _Where there is mystery, there is margin._
+In many cases, there has been a general lack of communication about what meditation actually _is_. Although apps have done wonders for getting people to try meditation, they seem reluctant to explain it clearly. I guess their subscription models give them little incentive to teach the tools to become self-sufficient...
 
- I have meditated since 2016, and during that time there have been many moments where I have realised that meditation is actually less complicated than I been led to believe. Some of this simplicity has emerged from putting in hours and hours of practice, but a great deal has come from reading and listening to books, articles, scientific papers, podcasts, etc. The more I have learned and applied, the better the outcome. I now get immense satisfaction every day from a very simple unguided meditation that I have pieced together myself by drawing on neurological research. This meditation addresses specific parts of my own wellbeing, but it is modular so it can be adapted for differing needs. The benefits that I've experienced from this simple practice really have been incalculable and I would like to show everyone how to do the same.
+> _Where there is mystery, there is margin._ 
 
-My aim for this article is to:
-- Summarise how the bewildering number of different styles of meditation can be broadly broken down into four categories, based on the effect they have on the brain.
-- Dispel some of the common misconceptions about meditation (that I had to find out the hard way).
-- Give practical tips on how to get more from meditation and how to design a practice that caters for your own wellbeing.
+On top of this, I don't feel like the true benefits of meditation are talked about enough. I have found them hard to ignore.
 
-**Disclaimers: I'm not an expert, I am just a keen hobbyist that has learnt and experimented over time. Meditation is only supplementary to (not a substitute for) proper medical treatment, so if you have a serious mental health condition, such as severe depression or OCD, seek professional help alongside any meditation practice.**
+I started to meditate in 2016, in the midst of a particularly bad bout of depression, having struggled with concentration problems, anxiety and depersonalisation since I was a teenager. Like most people, my first port of call was Headspace, which mainly teaches a mixture of two meditation styles: _mindfulness_ and _focus_ (more on these later). I found it exceedingly difficult, but after just a few weeks of about 10-15 minutes a day, I could already notice the difference. My concentration was improving, my anxiety reducing. I felt happier, more connected to the world. I was seeing my surroundings more vividly. I was hooked. I learned as much as I could and crafted my own unguided practice.
+
+Several years on, my concentration problems, general anxiety and depersonalisation disorder have all but faded. This has brought unimaginable improvements to my life and I often find it hard to believe.
+
+Interestingly, despite all of the improvements I've experienced, I have continued to suffer from frequent bouts of depression. I had started to assume that meditation wouldn't help me with this. More recently I stumbled upon a different style of meditation and incorporated it into my practice. It is less popular than _focus_ and _mindfulness_ styles, but recent research suggests that it is a powerful treatment for depression and my own experience backs this up. I'm slowly starting to realise that...
+
+> _not all meditation is made equally_
+
+But, how can something so benign have such profound effects? What are these different styles of meditation and why does the brain respond so differently to them? How can people design their own practice that caters to their own wellbeing?
+
+Let's find out.
+
+**Disclaimers: I'm not an expert, I am just a keen hobbyist that has read a few books and experimented over time. Meditation is only supplementary to (not a substitute for) proper medical treatment, so if you have a serious mental health condition, please seek professional help.**
+
+<!--
+## Stuff
+
+- Explain how the overwhelming number of different meditation on offer can be broadly broken down into four categories.
+Striving for self-sufficiency and efficiency, I soon delved into the literature surrounding mindfulness and focus meditation and crafted an unguided routine based on these two disciplines.
+
+That is until the last few months, when I stumbled across a third style of meditation known as "open heart" and incorporated it into my practice. I have really been blown away by the impact that it has had on my mood.
+
+I now get immense satisfaction every day from a simple unguided meditation.  This meditation addresses specific parts of my own wellbeing, drawing on neurological research. what I have learnedbut it is modular so it can be adapted for differing needs. The benefits that I've experienced from this simple practice really have been incalculable and I would like to show everyone how to do the same.
+
+That is until I recently reread/read  and [Into The Magic Shop](https://amzn.to/2M9rcyD) by Dr Jim Doty. 
+
+Despite being so simple, anybody that has ever tried these two exercises will know that they are deceptively hard. The disobedience of your own mind never fails to surprise you and it can bring waves of emotional turmoil, even anger and frustration. However, 
+it has sparked a deep interest to find out _"how on Earth is this possible?"_
+
 
 # The Four Categories of Meditation 
 
 Here I will summarise "Meditation Interventions to Rewire the Brain" by Dr Jeff Tarrant.
+Two of the most common styles of m: mindfulness and concentration. I will delve further into these below, but they are by far the most common and make up the majority of app-based meditations, as well as many traditional styles such as Vipassana (from what I gather). My own experience of practicing these, for as little as 5-10 minutes a day, is that they are extremely effective at treating concentration problems and anxiety.
 
 ### Focus meditation
 Focus meditation is summarised extremely succinctly in _Meditation Interventions_:
@@ -79,3 +105,4 @@ My approach until recently, was two typical exercises: Focusing on my breath. Bo
 Recently, I re-read [[Meditation Interventions to Rewire the Brain]] by Dr Jeff Tarrant (a clinical psychologist that specialises in neuroscience-backed approaches to treating psychological disorders). In this book he introduces modern neuroscience research into the effects of meditation and argues that any style of meditation can be roughly categorised into four systems. advises clinicians on which styles to use for different conditions.
 
 
+-->
