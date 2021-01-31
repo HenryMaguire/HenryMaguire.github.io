@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Meditation: Concentrated (V2)"
+title:  "Meditation: Concentrated"
 subtitle: Insights I wish I'd had five years ago.
 date:   2021-01-26 09:17:00 +0000
-image:  #10.jpg
-tags:   Meditation Neuroscience
+image:  10.jpg
+tags:   meditation neuroscience
 ---
 Meditation has experienced a boom in popularity over the last decade. There is now an overwhelming amount of scientific (and anecdotal) evidence on the psychological benefits of meditation, with apps such as Headspace and Calm helping to make it readily available to everyone. The meditation industry is now estimated to be worth over a billion dollars worldwide, with courses, retreats and apps catering for everything from sports performance to phobias.
 
 Despite this publicity, I still meet very few people that meditate regularly. Some people get a lot out of meditation, but aren't able to establish a habit. Some have tried meditation, but upon failing to "clear their mind", concluded that it's not for them. Others simply assume that it _can't really have that much of an effect_ or are put off by its spiritual affiliations.
 
-In many cases, there has been a general lack of communication about what meditation actually _is_. Although apps have done wonders for getting people to try meditation, they seem reluctant to explain it clearly. I guess their subscription models give them little incentive to teach the tools to become self-sufficient...
+In many cases, there has been a general lack of communication about what meditation actually _is_. Although apps have done wonders for getting people to try meditation, they seem reluctant to explain it clearly. I am a huge fan of them, but they _are_ incentivised to keep their subscribers coming back for more, rather than fostering independence...
 
-> _Where there is mystery, there is margin._ 
+> _"Where there is mystery, there is margin."_
 
 On top of this, I don't feel like the true benefits of meditation are talked about enough. I have found them hard to ignore.
 
@@ -22,7 +22,7 @@ Several years on, my concentration problems, general anxiety and depersonalisati
 
 Interestingly, despite all of the improvements I've experienced, I have continued to suffer from frequent bouts of depression. I had started to assume that meditation wouldn't help me with this. More recently I stumbled upon a different style of meditation and incorporated it into my practice. It is less popular than _focus_ and _mindfulness_ styles, but recent research suggests that it is a powerful treatment for depression and my own experience backs this up. I'm slowly starting to realise that...
 
-> _not all meditation is made equally_
+> _"Meditation is not one-size-fits-all"_ - Jeff Tarrant
 
 But, how can something so benign have such profound effects? What are these different styles of meditation and why does the brain respond so differently to them? How can people design their own practice that caters to their own wellbeing?
 

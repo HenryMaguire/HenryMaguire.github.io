@@ -2,6 +2,14 @@
 layout: default
 ---
 <div class="container">
+  <!-- {% assign no-image = nil %}
+  {% if page.image %}
+    <div class="post__head">
+      <div class="post-image" style="background-image: url({{site.baseurl}}/images/{{page.image}})"></div>
+    </div>
+  {% else %}
+    {% assign no-image = 'post-no-image' %}
+  {% endif %} -->
   <div class="post-title-box">
     <div class="row">
       <div class="col col-10 push-2 col-11 push-t-1 col-m-12 push-m-0">
@@ -28,16 +36,6 @@ layout: default
       </div>
     </div>
   </div>
-
-  {% assign no-image = nil %}
-  {% if page.image %}
-    <div class="post__head">
-      <div class="post-image" style="background-image: url({{site.baseurl}}/images/{{page.image}})"></div>
-    </div>
-  {% else %}
-    {% assign no-image = 'post-no-image' %}
-  {% endif %}
-
   </div>
 
 
@@ -86,7 +84,7 @@ layout: default
   <div class="post__navigation">
     {% if page.previous.url %}
     <div class="prev">
-      <a class="post__nav__image" href="{{ site.baseurl }}{{page.previous.url}}" style="background-image: url({{site.baseurl}}/images/{{page.previous.image}})"></a>
+      <!-- <a class="post__nav__image" href="{{ site.baseurl }}{{page.previous.url}}" style="background-image: url({{site.baseurl}}/images/{{page.previous.image}})"></a> -->
       <h2 class="post__nav__title">
         <i class="ion ion-md-arrow-back"></i>
         <a href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}}</a>
@@ -103,7 +101,7 @@ layout: default
 
     {% if page.next.url %}
     <div class="next">
-      <a class="post__nav__image" href="{{ site.baseurl }}{{page.next.url}}" style="background-image: url({{site.baseurl}}/images/{{page.next.image}})">
+      <!-- <a class="post__nav__image" href="{{ site.baseurl }}{{page.next.url}}" style="background-image: url({{site.baseurl}}/images/{{page.next.image}})"> -->
       </a>
       <h2 class="post__nav__title">
         <a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a>

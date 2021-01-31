@@ -11,7 +11,7 @@ author:
   name: Henry Maguire
   #image: 01.jpg
   say-hello: Hello, I’m <strong>Henry</strong> 👋
-  bio: I'm a Data Scientist at Orbital Witness, a LegalTech startup based in London.‍ On this website I write about machine learning, startups, self-education and strategies for living a happy and creative life.
+  bio: I'm a Data Scientist at Orbital Witness, a LegalTech startup based in London.‍ On this website I write about machine learning, startups, self-education, mental health and neuroscience.
 
 
 #-------------------------------
@@ -19,6 +19,7 @@ author:
 twitter: https://twitter.com/hejmaguire # Add your Twitter handle
 linkedin: https://www.linkedin.com/in/henry-maguire
 github: https://github.com/HenryMaguire
+email: henrymaguire@hotmail.co.uk
 
 #-------------------------------
 # Comment Section (Disqus)
